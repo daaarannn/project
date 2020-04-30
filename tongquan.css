@@ -1,0 +1,22 @@
+body{
+    background-image: url("BG.png");
+    background-size: cover;
+}
+.container{
+    margin: 50px;
+    font-size: 20px;
+}
+.texttongquan{
+    padding: 30px;
+}
+img{
+    height: 180px;
+    margin: 20px;
+}
+.calltoaction{
+    color: #188440;
+    text-align: center;
+    font-size: 25px;
+    margin: 10px;
+    
+}

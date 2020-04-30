@@ -1,0 +1,115 @@
+
+@font-face{
+    src:url(fonts/anklepants.ttf);
+    font-family: Anklepants;}
+@font-face{
+    src: url(fonts/Montserrat-Regular.otf);
+    font-family: Montserrat;
+ }
+ @font-face{
+     src:url(fonts/Montserrat-Bold.otf);
+     font-family: MontserratBold;
+ }
+body{
+    background-image: url("BG.png");
+    background-size: cover;
+}
+.container{
+    margin-top: 50px;
+}
+.thelecuocthi{
+    font-size: 35px;
+    color: #188440;
+    font-family: Montserrat;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+.ii{
+    font-family: Anklepants;
+    color: #188440;
+    font-size: 35px;
+}
+.trainghiemkhacbiet{
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 15px;
+    margin-top: -15px;
+}
+.rounded-0{
+    background-color: #188440;
+    padding: 5px;
+}
+.align{
+    text-align: center;
+}
+.bgtext{
+    padding: 5px;
+}
+.roundx{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    color: #188440;
+}
+.roundhover:hover{
+    background-color: #188440;
+    color: #ffffff;
+}
+.bglight{
+    background-image: url("light.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 95% 70%;
+    
+}
+.giaithuong{
+    font-size: 35px;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+
+}
+.giaithuongborder{
+    background-color: #188440;
+    border-radius: 8px;
+    padding: 7px;
+}
+.awardbg{
+    background-color: #188440;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    color: #ffffff;
+}
+.awardtitle{
+    text-align: center;
+    color: #188440;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.tonggiaithuong{
+    color: rgb(0, 51, 11);
+    font-family: MontserratBold;
+}
+li{
+    margin-left: -17px;
+}
+.emphasizenumber{
+    font-weight: bolder;
+    font-size: larger;
+}
+.giaikk{
+    color: #188440;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #188440;
+    border-radius: 20px;
+    padding: 10px;
+}
